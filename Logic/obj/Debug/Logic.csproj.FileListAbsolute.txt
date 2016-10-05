@@ -1,0 +1,9 @@
+C:\Users\ChristianG\Documents\Visual Studio 2015\Projects\C_Sharp_Desktop\Logic\bin\Debug\Logic.dll
+C:\Users\ChristianG\Documents\Visual Studio 2015\Projects\C_Sharp_Desktop\Logic\bin\Debug\Logic.pdb
+C:\Users\ChristianG\Documents\Visual Studio 2015\Projects\C_Sharp_Desktop\Logic\bin\Debug\AccessData.dll
+C:\Users\ChristianG\Documents\Visual Studio 2015\Projects\C_Sharp_Desktop\Logic\bin\Debug\Model.dll
+C:\Users\ChristianG\Documents\Visual Studio 2015\Projects\C_Sharp_Desktop\Logic\bin\Debug\AccessData.pdb
+C:\Users\ChristianG\Documents\Visual Studio 2015\Projects\C_Sharp_Desktop\Logic\bin\Debug\Model.pdb
+C:\Users\ChristianG\Documents\Visual Studio 2015\Projects\C_Sharp_Desktop\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\ChristianG\Documents\Visual Studio 2015\Projects\C_Sharp_Desktop\Logic\obj\Debug\Logic.dll
+C:\Users\ChristianG\Documents\Visual Studio 2015\Projects\C_Sharp_Desktop\Logic\obj\Debug\Logic.pdb
